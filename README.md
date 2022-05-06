@@ -9,6 +9,10 @@
 - 🔭 I’m currently working on [An E-Commerce Startup - HYPOLLECT](https://www.instagram.com/hypollect)
 - 🌱 I’m currently learning **iOS Development (Swift) and Mobile App Development (Flutter and Dart)**
 - 👀 Looking for collaboration on Mobile App Development and Web Development 
+
+- 📚 I'm currently under Google Career Readiness Program **Associate Cloud Engineer (ACE) Track** 
+- 📝 I'm currently under GDSC Machine Learning Study Jam Core Team under Marketing Department as Graphic Designer 
+
 - 📫 How to reach me **karen.nke0201@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -63,7 +67,6 @@
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karen-nke&show_icons=true&locale=en&layout=compact" alt="karen-nke" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karen-nke&show_icons=true&locale=en" alt="karen-nke" /></p>
 
 <h3>Connect with me ! </h3>
