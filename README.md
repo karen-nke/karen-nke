@@ -52,7 +52,7 @@
   
   <a href="https://www.figma.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.onlinemarketingtools.pro%2Fwp-content%2Fuploads%2F2018%2F10%2FFigma-logo.png&f=1&nofb=1"
             alt="Figma" width="40" height="40" /> </a>
-     <a href="https://www.canva.com" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcanva&psig=AOvVaw26ZrXUaDzHzdkbExCaa7du&ust=1651933773735000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNi7qYCLy_cCFQAAAAAdAAAAABAD"
+     <a href="https://www.canva.com" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png"
             alt="Canva" width="40" height="40" /> </a>
   
 </p>
