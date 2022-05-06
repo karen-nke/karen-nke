@@ -62,10 +62,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karen-nke&show_icons=true&locale=en" alt="karen-nke" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me ! </h3>
 <p align="left">
-    <a href="https://linkedin.com/in/karen-nke0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karen-nke0201" height="30" width="40" /></a>
-   <a href="mailto: karen.nke02010@gmail.com" target="_blank">
+    <a href="mailto: karen.nke0201@gmail.com" target="_blank">
         <img src="https://user-images.githubusercontent.com/63916254/158004837-7c7bb0f6-1843-441d-a234-30a8da6cae9e.png"
             alt="gmail" width="89" height="45" /> </a>
-</p>
+    <a href="https://www.linkedin.com/in/karen-nke0201/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/63916254/158004908-f67aa5e3-4de9-4372-851c-96c67ac46b2f.png"
+            alt="linkedin" width="80" height="45" /> </a>
+</p>  
