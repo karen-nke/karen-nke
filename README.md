@@ -64,7 +64,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karen-nke0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karen-nke0201" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/karen-nke0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karen-nke0201" height="30" width="40" /></a>
    <a href="mailto: karen.nke02010@gmail.com" target="_blank">
         <img src="https://user-images.githubusercontent.com/63916254/158004837-7c7bb0f6-1843-441d-a234-30a8da6cae9e.png"
             alt="gmail" width="89" height="45" /> </a>
