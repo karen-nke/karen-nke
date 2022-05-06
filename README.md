@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karen Ng from MALAYSIA !</h1>
 <p><b> My Life Motto is - </b> Always believe in yourself as life is an amazing journey </p>
+<img align="right" alt="Gif" width="200" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif">
+
+
+
 
 - :octocat: I'm an undergraduate student from Sunway University. 
 - 🔭 I’m currently working on [An E-Commerce Startup - HYPOLLECT](https://www.instagram.com/hypollect)
