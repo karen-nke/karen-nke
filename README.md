@@ -77,9 +77,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karen-nke&show_icons=true&locale=en&layout=compact" alt="karen-nke" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karen-nke&show_icons=true&locale=en" alt="karen-nke" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karen-nke&show_icons=true&locale=en&layout=compact" alt="karen-nke" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karen-nke&show_icons=true&locale=en" alt="karen-nke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karen-nke&" alt="karen-nke" /></p>
 
