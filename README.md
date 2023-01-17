@@ -77,4 +77,6 @@
     <a href="https://www.linkedin.com/in/karen-nke0201/" target="_blank">
         <img src="https://user-images.githubusercontent.com/63916254/158004908-f67aa5e3-4de9-4372-851c-96c67ac46b2f.png"
             alt="linkedin" width="80" height="45" /> </a>
+    <a href="https://www.behance.net/https://www.behance.net/karennke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/karennke" height="30" width="40" /></a>
+</p>
 </p>  
